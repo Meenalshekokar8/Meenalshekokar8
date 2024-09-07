@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-    <img src="./assets/headers/Annyeong, Fellow Coders! dark.gif" width="400" alt="Annyeong" />
+    <img src="./assets/headers/Annyeong, Fellow Coders!.gif" width="400" alt="Annyeong" />
     <img src="./assets/cats/hello-dark.gif" alt="hello" height="220" width="210" />
     <br>
     <br>
