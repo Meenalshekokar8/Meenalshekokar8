@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-    <img src="./assets/headers/Annyeong-Fellow-Coders-dark-unscreen.gif" width="400" alt="Annyeong" />
+    <img src="./assets/headers/Hi-Fellow-Coders-bg.gif" width="400" alt="Annyeong" />
     <img src="./assets/cats/hello-dark.gif" alt="hello" height="220" width="210" />
     <br>
     <br>
@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-    <img src="./assets/headers/about-me-dark.gif" alt="about-me" width="400" />
+    <img src="./assets/headers/about me-bg.gif.gif" alt="about-me" width="400" />
     <img src="./assets/cats/smart-dark.gif" alt="smart-cat" height="200" width="200" />
 </p>
 
@@ -39,7 +39,7 @@
 <br>
 
 <p align="center">
-    <img src="./assets/headers/currently-typing-dark.gif" alt="currently-typing" width="400" />
+    <img src="./assets/headers/currently typing-bg.gif" alt="currently-typing" width="400" />
     <img src="./assets/cats/typing-dark.gif" alt="typing-cat" height="170" width="200" />
 </p>
 
@@ -138,7 +138,7 @@
 <br>
 
 <p align="center">
-    <img src="./assets/headers/fun-fact-dark.gif" alt="fun-facts" width="400" />
+    <img src="./assets/headers/funfact-bg.gif" alt="fun-facts" width="400" />
     <img src="./assets/cats/drink-dark.gif" alt="drinking-cat" height="220" width="212" />
 </p>
 
@@ -153,7 +153,7 @@
 <br>
 
 <p align="center">
-    <img src="./assets/headers/wanna-talk-dark.gif" alt="wanna-talk" width="400" />
+    <img src="./assets/headers/wanna talk-bg.gif" alt="wanna-talk" width="400" />
     <img src="./assets/cats/scrolling-phone-dark.gif" alt="scrolling-phone" height="220" width="220" />
 </p>
 
