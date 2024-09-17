@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-    <img src="./assets/headers/about me-bg.gif.gif" alt="about-me" width="400" />
+    <img src="./assets/headers/about me-bg.gif" alt="about-me" width="400" />
     <img src="./assets/cats/smart-dark.gif" alt="smart-cat" height="200" width="200" />
 </p>
 
