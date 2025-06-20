@@ -80,11 +80,6 @@
     <img src="./assets/icons/java.svg" alt="Java" alt="Java" height="60" hspace="10" />
   </a>
 
- <!-- PHP -->
-  <a href="https://www.php.com">
-    <img src="./assets/icons/php.svg" alt="Java" alt="PHP" height="60" hspace="10" />
-  </a>
-  
   </p>
   <br>
 
